@@ -1,4 +1,4 @@
-# <div align="center">El Ahorcado en Javascript - Sencillo - Dia 1 </div>  
+# <div align="center">El 3 en raya en Javascript - Sencillo - Dia 2 </div>  
 
 Vamos a crear el 3 en raya para comprender la logica detras de todo el juego.  
   
